@@ -1,1 +1,2 @@
 plat principal A conflit
+plat principal B
